@@ -5,7 +5,12 @@
   "repository": "git@github.com:ramos-larissa/api-themoviedb.git",
   "author": "Larissa Ramos <devlarissasr@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "start": "node server.js"
+  },
   "dependencies": {
+    "axios": "^1.1.3",
+    "cors": "^2.8.5",
     "express": "^4.18.2",
     "nodemon": "^2.0.20"
   }
