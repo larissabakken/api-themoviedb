@@ -1,4 +1,4 @@
-# App NAME
+# API themoviedb.org
 
 ### Software prerequisites
 
