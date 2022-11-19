@@ -83,7 +83,7 @@ web_modules/
 # parcel-bundler cache (https://parceljs.org/)
 .cache
 #idea
-/.idea
+.idea
 # Default ignored files
 /shelf/
 /workspace.xml
