@@ -1,7 +1,7 @@
 const axios = require('axios');
 
 const api = axios.create({
-    baseURL: 'https://api.themoviedb.org/3/movie/',
+    baseURL: 'https://api.themoviedb.org/3/',
 
 });
 

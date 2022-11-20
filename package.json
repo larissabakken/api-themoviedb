@@ -6,7 +6,7 @@
   "author": "Larissa Ramos <devlarissasr@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "start": "node server.js"
+    "start": "nodemon server.js"
   },
   "dependencies": {
     "axios": "^1.1.3",
